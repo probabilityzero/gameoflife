@@ -1,4 +1,4 @@
-# Game of Life, written in Rust 
+# Game of Life 
 
 This app simulates Conway's Game of Life in your terminal. It uses **crossterm** for terminal manipulation (cursor, color, input) and **rand** for initializing a random grid.
 It's key features are:
