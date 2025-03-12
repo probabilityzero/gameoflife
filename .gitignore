@@ -2,4 +2,4 @@
 .cursor
 .code
 .vscode
-target
+target/
